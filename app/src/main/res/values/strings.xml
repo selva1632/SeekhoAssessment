@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Anime</string>
+    <string name="top_bar_title">Top Anime</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
